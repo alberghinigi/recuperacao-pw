@@ -1,0 +1,26 @@
+body{
+	background-image: url("https://th.bing.com/th/id/R.ef5eec3becaec1946c111e5e265e7426?rik=dzigmtE7qBwZkg&pid=ImgRaw&r=0");
+	display: flex;
+	justify-content: center;
+}
+.menu{
+	display:flex;
+	background-color: white;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 300px;
+	width: 300px;
+	border-radius: 30px;
+}
+.a{
+	font-size: 20px;
+	color: black;
+
+}
+.h1{
+	font-size:25px;
+}
+.a:hover{
+	color: gray;
+}
